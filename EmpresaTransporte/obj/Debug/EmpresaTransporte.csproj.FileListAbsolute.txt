@@ -1,0 +1,36 @@
+C:\Users\sala405.IUSH\Desktop\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.dll
+C:\Users\sala405.IUSH\Desktop\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.pdb
+C:\Users\sala405.IUSH\Desktop\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sala405.IUSH\Desktop\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.dll
+C:\Users\sala405.IUSH\Desktop\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
+H:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.dll
+H:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.pdb
+H:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\ResolveAssemblyReference.cache
+H:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.dll
+H:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
+F:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.dll
+F:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.pdb
+F:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\ResolveAssemblyReference.cache
+F:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.dll
+F:\Universidad\WEB\Proyecto WEB\EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
+D:\Documentos\JULIAN\G-Drive\Perfil_Pro\Aprendizaje\IUSH\Semestre 5\Programacion WEB\EmpresaTransporte2\EmpresaTransporte\bin\EmpresaTransporte.dll.config
+D:\Documentos\JULIAN\G-Drive\Perfil_Pro\Aprendizaje\IUSH\Semestre 5\Programacion WEB\EmpresaTransporte2\EmpresaTransporte\bin\EmpresaTransporte.dll
+D:\Documentos\JULIAN\G-Drive\Perfil_Pro\Aprendizaje\IUSH\Semestre 5\Programacion WEB\EmpresaTransporte2\EmpresaTransporte\bin\EmpresaTransporte.pdb
+D:\Documentos\JULIAN\G-Drive\Perfil_Pro\Aprendizaje\IUSH\Semestre 5\Programacion WEB\EmpresaTransporte2\EmpresaTransporte\obj\Debug\EmpresaTransporte.csprojAssemblyReference.cache
+D:\Documentos\JULIAN\G-Drive\Perfil_Pro\Aprendizaje\IUSH\Semestre 5\Programacion WEB\EmpresaTransporte2\EmpresaTransporte\obj\Debug\EmpresaTransporte.csproj.CoreCompileInputs.cache
+D:\Documentos\JULIAN\G-Drive\Perfil_Pro\Aprendizaje\IUSH\Semestre 5\Programacion WEB\EmpresaTransporte2\EmpresaTransporte\obj\Debug\EmpresaTransporte.dll
+D:\Documentos\JULIAN\G-Drive\Perfil_Pro\Aprendizaje\IUSH\Semestre 5\Programacion WEB\EmpresaTransporte2\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\Web C Sharp\AgregarMostrarArchivosBaseDatos\EmpresaTransporte\bin\EmpresaTransporte.dll.config
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\Web C Sharp\AgregarMostrarArchivosBaseDatos\EmpresaTransporte\bin\EmpresaTransporte.dll
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\Web C Sharp\AgregarMostrarArchivosBaseDatos\EmpresaTransporte\bin\EmpresaTransporte.pdb
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\Web C Sharp\AgregarMostrarArchivosBaseDatos\EmpresaTransporte\obj\Debug\EmpresaTransporte.csprojAssemblyReference.cache
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\Web C Sharp\AgregarMostrarArchivosBaseDatos\EmpresaTransporte\obj\Debug\EmpresaTransporte.csproj.CoreCompileInputs.cache
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\Web C Sharp\AgregarMostrarArchivosBaseDatos\EmpresaTransporte\obj\Debug\EmpresaTransporte.dll
+D:\Documents\CODIGOS\test-GEPI-HTML\apps\Web C Sharp\AgregarMostrarArchivosBaseDatos\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
+C:\xampp\htdocs\personal\apps\C#\Web-EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.dll.config
+C:\xampp\htdocs\personal\apps\C#\Web-EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.dll
+C:\xampp\htdocs\personal\apps\C#\Web-EmpresaTransporte\EmpresaTransporte\bin\EmpresaTransporte.pdb
+C:\xampp\htdocs\personal\apps\C#\Web-EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.csproj.AssemblyReference.cache
+C:\xampp\htdocs\personal\apps\C#\Web-EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\personal\apps\C#\Web-EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.dll
+C:\xampp\htdocs\personal\apps\C#\Web-EmpresaTransporte\EmpresaTransporte\obj\Debug\EmpresaTransporte.pdb
